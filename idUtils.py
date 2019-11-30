@@ -2,6 +2,9 @@ import re
 import requests
 import json
 import os
+from operator import itemgetter
+from itertools import groupby
+from bs4 import BeautifulSoup
 
 
 def get_html(url):
@@ -22,9 +25,43 @@ def get_html(url):
     return ""
 
 
-def get_ids_by_string(book_name, search_string):
+id_dict_list = []
+
+
+def id_crawler(text):
     """
-    :param book_name:       书名：红楼梦
+    :param text: html文本
+    :return: 获取在html文本当中的书籍信息{ 'name' = '红楼梦', 'id' = '12345', author = ['cao xue qin', 'aaa']}，
+             并加入id_dict_list
+    """
+    soup = BeautifulSoup(text, 'lxml')
+
+    for book in soup.find_all(name='tr', attrs={'itemtype': "http://schema.org/Book"}):
+        id_dict = {}
+
+        title = book.find(name='a', attrs={'class': "bookTitle"})
+
+        name = title.get_text()
+        name = name.replace('\n', '').replace('\r', '')
+        id_dict['name'] = name
+
+        regex = re.compile('/book/show/\d+')
+        href = title['href']
+        book_id = regex.findall(href)[0][11:]
+        id_dict['id'] = book_id
+
+        authors = book.find_all(name='a', attrs={'class': "authorName"})
+        author_list = []
+        for author in authors:
+            author_name = author.get_text()
+            author_list.append(author_name)
+        id_dict['authors'] = author_list
+
+        id_dict_list.append(id_dict)
+
+
+def get_ids_by_string(search_string):
+    """
     :param search_string:  搜索的字符串：A Dream in Red Mansions
     :return:    搜索A Dream in Red Mansions得到一个book_id列表，追加写入./ids/book_name.txt
     """
@@ -41,20 +78,13 @@ def get_ids_by_string(book_name, search_string):
         page_number = page_number + 1
         url = raw_url + str(page_number)
         text = get_html(url)
-
-        regex = re.compile('"url" href="/book/show/\d+')
-        raw_id_list = regex.findall(text)
-
-        ids_path = r'./ids/' + book_name + '.txt'
-        with open(ids_path, "a", encoding='utf-8') as f:
-            for raw_id in raw_id_list:
-                f.write(raw_id[23:] + '\n')
+        id_crawler(text)
 
 
 def get_ids_by_json():
     """
     :return: 从books.json中读取{ book_name : search_strings_list }，
-            并将搜索到的book_id写入./ids/book_name.txt
+            并将搜索到的book_id的信息写入./ids/book_name.json
     """
     str_file = './books.json'
     with open(str_file, 'r', encoding='utf-8') as f:
@@ -64,39 +94,31 @@ def get_ids_by_json():
     for book_name in book_dict.keys():
         search_string_list = book_dict[book_name]
         for search_string in search_string_list:
-            get_ids_by_string(book_name, search_string)
-        print('{0}.txt获取成功！'.format(book_name))
+            get_ids_by_string(search_string)
+
+        id_path = './ids/' + book_name + '.json'
+        unique_ids()
+
+        with open(id_path, "w", encoding='utf-8') as f:
+            json.dump(id_dict_list, f, ensure_ascii=False)
+        id_dict_list.clear()
+
+        print('{0}.json获取成功！'.format(book_name))
 
 
-def unique_ids(fpath):
+def unique_ids():
     """
-    :param fpath: 文件的路径
-    :return:      对fpath文件当中的ids进行去重
+    :return:  对于json文件，以每本书的id作为key进行去重
     """
-    with open(fpath, 'r') as f:
-        text = f.read()
-        tmp_list = text.split()
 
-    res_list = list(set(tmp_list))
-    with open(fpath, 'w') as f:
-        for url in res_list:
-            f.write(url + '\n')
-
-
-def unique_all_books_ids():
-    """
-    :return: 对所有的book_name.txt当中的ids进行去重
-    """
-    root_dir = './ids'
-    file_list = os.listdir(root_dir)  # 列出文件夹下所有的目录与文件
-    for file_name in file_list:
-        fpath = os.path.join(root_dir, file_name)
-        unique_ids(fpath)
+    global id_dict_list
+    key = itemgetter('id')
+    items = sorted(id_dict_list, key=key)
+    id_dict_list = [next(v) for _, v in groupby(items, key=key)]
 
 
 def main():
     get_ids_by_json()
-    unique_all_books_ids()
 
 
 if __name__ == '__main__':

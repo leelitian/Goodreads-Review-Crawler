@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ed0001-99b6-4716-878e-1c59f4dce8b9" name="Default" comment="" />
+    <list default="true" id="a7ed0001-99b6-4716-878e-1c59f4dce8b9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books - undone.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/books.json" beforeDir="false" afterPath="$PROJECT_DIR$/books.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idUtils.py" beforeDir="false" afterPath="$PROJECT_DIR$/idUtils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - done/In the Heart of the Country(南非的约翰·马克斯韦尔·库切).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - done/Lust(奥地利的埃尔弗里德·耶利内克).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - done/The Passport(德国的赫塔·米勒).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - done/变革(法国的让-马里·古斯塔夫·勒克莱齐奥).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - done/巴黎圣母院.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - done/暗店街(法国的帕特里克·莫迪亚诺).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/三国演义.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/人间喜剧.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/伊斯坦布尔·一座城市的记忆(土耳其的费利特·奥尔罕·帕慕克).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/命运无常(匈牙利的凯尔泰斯·伊姆雷).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/基督山伯爵.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/失乐园(日本的渡边淳一).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/小王子.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/我是猫(日本的夏目漱石).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/我的名字叫红(土耳其的费利特·奥尔罕·帕慕克).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/托马斯·特朗斯特罗姆诗集精选(瑞典的托马斯·特朗斯特罗姆).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/挪威的森林(日本的村上春树).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/檀香刑(中国的莫言).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/水浒传.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/沙漠(法国的让-马里·古斯塔夫·勒克莱齐奥).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/源氏物语.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/神秘岛.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/红与黑.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/红楼梦.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/红高粱家族(中国的莫言).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/绿房子(西班牙·秘鲁的马里奥·巴尔加斯·略萨).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/西游记.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/贪婪(奥地利的埃尔弗里德·耶利内克).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/酒吧长谈(西班牙·秘鲁的马里奥·巴尔加斯·略萨).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/雪(土耳其的费利特·奥尔罕·帕慕克).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/雪国(日本的川端康成).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids - undone/骆驼祥子.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids/低地(德国的赫塔·米勒).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids/城市与狗(西班牙·秘鲁的马里奥·巴尔加斯·略萨).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids/耻(南非的约翰·马克斯韦尔·库切).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids/钢琴教师(奥地利的埃尔弗里德·耶利内克).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ids/风中绿李(德国的赫塔·米勒).txt" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,50 +54,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
+      <file leaf-file-name="绿房子(西班牙·秘鲁的马里奥·巴尔加斯·略萨).json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ids/绿房子(西班牙·秘鲁的马里奥·巴尔加斯·略萨).json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="耻(南非的约翰·马克斯韦尔·库切).json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ids/耻(南非的约翰·马克斯韦尔·库切).json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="西游记.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ids/西游记.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="57">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="crawlerUtils.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawlerUtils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="100" selection-start-line="100" selection-end-line="100" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="贪婪(奥地利的埃尔弗里德·耶利内克).json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ids/贪婪(奥地利的埃尔弗里德·耶利内克).json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="htmlUtils.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/htmlUtils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="酒吧长谈(西班牙·秘鲁的马里奥·巴尔加斯·略萨).json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ids/酒吧长谈(西班牙·秘鲁的马里奥·巴尔加斯·略萨).json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="idUtils.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/idUtils.py">
+      <file leaf-file-name="钢琴教师(奥地利的埃尔弗里德·耶利内克).json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ids/钢琴教师(奥地利的埃尔弗里德·耶利内克).json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="雪(土耳其的费利特·奥尔罕·帕慕克).json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ids/雪(土耳其的费利特·奥尔罕·帕慕克).json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="雪国(日本的川端康成).json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ids/雪国(日本的川端康成).json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="风中绿李(德国的赫塔·米勒).json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ids/风中绿李(德国的赫塔·米勒).json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="骆驼祥子.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ids/骆驼祥子.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-399">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -74,15 +127,55 @@
       <find>borrowed a copy of this book from a dusty stack of forgotten books in the back closet of the English department in my high school, where it had been discarded by teachers</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/goodreads.py" />
         <option value="$PROJECT_DIR$/htmlUtils.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/crawlerUtils.py" />
+        <option value="$PROJECT_DIR$/ids/红楼梦.json" />
         <option value="$PROJECT_DIR$/idUtils.py" />
         <option value="$PROJECT_DIR$/books.json" />
-        <option value="$PROJECT_DIR$/crawlerUtils.py" />
-        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/ids/In the Heart of the Country(南非的约翰·马克斯韦尔·库切).json" />
+        <option value="$PROJECT_DIR$/ids/Lust(奥地利的埃尔弗里德·耶利内克).json" />
+        <option value="$PROJECT_DIR$/ids/The Passport(德国的赫塔·米勒).json" />
+        <option value="$PROJECT_DIR$/ids/三国演义.json" />
+        <option value="$PROJECT_DIR$/ids/人间喜剧.json" />
+        <option value="$PROJECT_DIR$/ids/伊斯坦布尔·一座城市的记忆(土耳其的费利特·奥尔罕·帕慕克).json" />
+        <option value="$PROJECT_DIR$/ids/低地(德国的赫塔·米勒).json" />
+        <option value="$PROJECT_DIR$/ids/变革(法国的让-马里·古斯塔夫·勒克莱齐奥).json" />
+        <option value="$PROJECT_DIR$/ids/命运无常(匈牙利的凯尔泰斯·伊姆雷).json" />
+        <option value="$PROJECT_DIR$/ids/城市与狗(西班牙·秘鲁的马里奥·巴尔加斯·略萨).json" />
+        <option value="$PROJECT_DIR$/ids/基督山伯爵.json" />
+        <option value="$PROJECT_DIR$/ids/失乐园(日本的渡边淳一).json" />
+        <option value="$PROJECT_DIR$/ids/小王子.json" />
+        <option value="$PROJECT_DIR$/ids/巴黎圣母院.json" />
+        <option value="$PROJECT_DIR$/ids/我是猫(日本的夏目漱石).json" />
+        <option value="$PROJECT_DIR$/ids/我的名字叫红(土耳其的费利特·奥尔罕·帕慕克).json" />
+        <option value="$PROJECT_DIR$/ids/托马斯·特朗斯特罗姆诗集精选(瑞典的托马斯·特朗斯特罗姆).json" />
+        <option value="$PROJECT_DIR$/ids/挪威的森林(日本的村上春树).json" />
+        <option value="$PROJECT_DIR$/ids/暗店街(法国的帕特里克·莫迪亚诺).json" />
+        <option value="$PROJECT_DIR$/ids/檀香刑(中国的莫言).json" />
+        <option value="$PROJECT_DIR$/ids/水浒传.json" />
+        <option value="$PROJECT_DIR$/ids/沙漠(法国的让-马里·古斯塔夫·勒克莱齐奥).json" />
+        <option value="$PROJECT_DIR$/ids/源氏物语.json" />
+        <option value="$PROJECT_DIR$/ids/神秘岛.json" />
+        <option value="$PROJECT_DIR$/ids/红与黑.json" />
+        <option value="$PROJECT_DIR$/ids/红高粱家族(中国的莫言).json" />
+        <option value="$PROJECT_DIR$/ids/绿房子(西班牙·秘鲁的马里奥·巴尔加斯·略萨).json" />
+        <option value="$PROJECT_DIR$/ids/耻(南非的约翰·马克斯韦尔·库切).json" />
+        <option value="$PROJECT_DIR$/ids/西游记.json" />
+        <option value="$PROJECT_DIR$/ids/贪婪(奥地利的埃尔弗里德·耶利内克).json" />
+        <option value="$PROJECT_DIR$/ids/酒吧长谈(西班牙·秘鲁的马里奥·巴尔加斯·略萨).json" />
+        <option value="$PROJECT_DIR$/ids/钢琴教师(奥地利的埃尔弗里德·耶利内克).json" />
+        <option value="$PROJECT_DIR$/ids/雪(土耳其的费利特·奥尔罕·帕慕克).json" />
+        <option value="$PROJECT_DIR$/ids/雪国(日本的川端康成).json" />
+        <option value="$PROJECT_DIR$/ids/风中绿李(德国的赫塔·米勒).json" />
+        <option value="$PROJECT_DIR$/ids/骆驼祥子.json" />
       </list>
     </option>
   </component>
@@ -92,6 +185,7 @@
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -103,6 +197,11 @@
             <path>
               <item name="goodreads" type="b2602c69:ProjectViewProjectNode" />
               <item name="goodreads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goodreads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goodreads" type="462c0819:PsiDirectoryNode" />
+              <item name="ids" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.crawlerUtils">
+  <component name="RunManager" selected="Python.idUtils">
     <configuration name="crawlerUtils" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="goodreads" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,9 +307,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.idUtils" />
         <item itemvalue="Python.crawlerUtils" />
         <item itemvalue="Python.htmlUtils" />
-        <item itemvalue="Python.idUtils" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -241,12 +340,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14713542" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14713542" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.31766382" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33931035" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29696134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.31862068" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -264,367 +363,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1805">
-          <caret line="100" selection-start-line="100" selection-end-line="100" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1786">
-          <caret line="97" column="4" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/books.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawlerUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="81" column="11" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawlerUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="81" column="11" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1786">
-          <caret line="97" column="4" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/books.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1805">
-          <caret line="100" selection-start-line="100" selection-end-line="100" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawlerUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="81" column="11" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1786">
-          <caret line="97" column="4" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/books.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawlerUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1558">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawlerUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="33" column="82" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="82" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1444">
-          <caret line="81" column="27" selection-start-line="81" selection-start-column="27" selection-end-line="81" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="75" selection-start-line="75" selection-end-line="77" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2128">
-          <caret line="112" selection-start-line="112" selection-end-line="112" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1919">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/books.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2128">
-          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1862">
-          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/books.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goodreads.py" />
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1729">
-          <caret line="99" selection-start-line="99" selection-start-column="2" selection-end-line="100" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/bs4/element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-368">
-          <caret line="1297" column="8" selection-start-line="1297" selection-start-column="8" selection-end-line="1297" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/selenium/webdriver/support/expected_conditions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="296" column="9" lean-forward="true" selection-start-line="296" selection-start-column="9" selection-end-line="296" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/Anaconda3/Lib/site-packages/selenium/webdriver/support/wait.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -654,44 +392,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/goodreads.py" />
-    <entry file="file://$PROJECT_DIR$/htmls/水浒传/18883038_1.html">
+    <entry file="file://$PROJECT_DIR$/htmls/水浒传/18883038_1.html" />
+    <entry file="file://E:/Anaconda3/Lib/site-packages/bs4/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-684" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/books.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-988">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state relative-caret-position="151">
+          <caret line="180" selection-start-line="180" selection-end-line="180" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawlerUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="100" selection-start-line="100" selection-end-line="100" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -699,12 +413,200 @@
     <entry file="file://$PROJECT_DIR$/htmlUtils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawlerUtils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="119" column="4" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idUtils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="110" column="39" selection-start-line="110" selection-start-column="39" selection-end-line="110" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/In the Heart of the Country(南非的约翰·马克斯韦尔·库切).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/Lust(奥地利的埃尔弗里德·耶利内克).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/The Passport(德国的赫塔·米勒).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/三国演义.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/人间喜剧.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/伊斯坦布尔·一座城市的记忆(土耳其的费利特·奥尔罕·帕慕克).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/低地(德国的赫塔·米勒).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/变革(法国的让-马里·古斯塔夫·勒克莱齐奥).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/命运无常(匈牙利的凯尔泰斯·伊姆雷).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/城市与狗(西班牙·秘鲁的马里奥·巴尔加斯·略萨).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/基督山伯爵.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/失乐园(日本的渡边淳一).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/小王子.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/巴黎圣母院.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/我是猫(日本的夏目漱石).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/我的名字叫红(土耳其的费利特·奥尔罕·帕慕克).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/托马斯·特朗斯特罗姆诗集精选(瑞典的托马斯·特朗斯特罗姆).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/挪威的森林(日本的村上春树).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/暗店街(法国的帕特里克·莫迪亚诺).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/檀香刑(中国的莫言).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/水浒传.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/沙漠(法国的让-马里·古斯塔夫·勒克莱齐奥).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/源氏物语.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/神秘岛.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/红与黑.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/红楼梦.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="238" column="1" selection-start-line="238" selection-start-column="1" selection-end-line="238" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/红高粱家族(中国的莫言).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/绿房子(西班牙·秘鲁的马里奥·巴尔加斯·略萨).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/耻(南非的约翰·马克斯韦尔·库切).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/西游记.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/贪婪(奥地利的埃尔弗里德·耶利内克).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/骆驼祥子.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/风中绿李(德国的赫塔·米勒).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/雪国(日本的川端康成).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/雪(土耳其的费利特·奥尔罕·帕慕克).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/钢琴教师(奥地利的埃尔弗里德·耶利内克).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ids/酒吧长谈(西班牙·秘鲁的马里奥·巴尔加斯·略萨).json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
